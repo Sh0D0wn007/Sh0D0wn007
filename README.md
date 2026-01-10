@@ -10,7 +10,9 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
 - **Frameworks**: React, Node.js, Django
 - **Tools**: Git, Docker, VS Code, Cursor
 
-<img src="./imgs/ShoLogoNormal.png" width="100">
+<a href="https://www.sh0d0wn.com">
+  <img src="./imgs/ShoLogoNormal.png" width="100">
+</a>
 
 ![GitHub followers](https://img.shields.io/github/followers/Sh0D0wn007?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Sho000007?style=social)
