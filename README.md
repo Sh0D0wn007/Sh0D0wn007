@@ -16,4 +16,4 @@ Welcome to my GitHub profile! Here are some of my projects and interests.
 <br><br>
   
 ![GitHub followers](https://img.shields.io/github/followers/Sh0D0wn007?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/Sho000007?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Sh0D0wn007?style=social)
